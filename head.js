@@ -1,4 +1,3 @@
-// const assertEqual = require('../assertEqual');
 
 const head = function (parameter){
 return parameter[0]
